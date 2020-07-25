@@ -1,4 +1,4 @@
-package br.com.massenan.supportportal.resource;
+package br.com.massenan.supportportal.filter;
 
 import br.com.massenan.supportportal.constant.SecurityConstant;
 import br.com.massenan.supportportal.utils.JWTTokenProvider;
